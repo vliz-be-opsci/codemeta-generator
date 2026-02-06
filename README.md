@@ -9,4 +9,4 @@ To do:
 (to use as info/inspo: https://github.com/vliz-be-opsci/open-code-tracking/tree/main)
 
   
-In the meantime we suggest to use (tool from Jorge)[] to create the codemeta file by hand.
+In the meantime we suggest to use https://codemeta.github.io/codemeta-generator/ or https://autocodemeta.linkeddata.es/ to create the codemeta file by hand.
